@@ -1,2 +1,0 @@
-# zalora.github.io
-Testing
